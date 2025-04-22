@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, world. I'm just a humble text file, sacrificed in the name of learning Git. For now, I'm just chilling in version control purgatory. Commit me, baby.
+=======
+hello world its me. 
+>>>>>>> 4fe7cbe767b9d24759ad9734fde5031ed48164fb
