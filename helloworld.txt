@@ -1,0 +1,1 @@
+Hello, world. I'm just a humble text file, sacrificed in the name of learning Git. For now, I'm just chilling in version control purgatory. Commit me, baby.
